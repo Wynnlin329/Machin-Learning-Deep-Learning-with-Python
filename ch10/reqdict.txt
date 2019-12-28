@@ -1,0 +1,20 @@
+{ 
+  'faces1': [
+    {
+      'face_rectangle': {'width': 192, 'top': 134, 'left': 245, 'height': 192}, 
+      'face_token': '0bd1c874a43f1c951cdf6e3ee9f59d1e'
+    }
+  ], 
+  'faces2': [
+    {
+      'face_rectangle': {'width': 212, 'top': 225, 'left': 256, 'height': 212}, 
+      'face_token': '062b7644164d7700a69ce92a1b5b7868'
+    }
+  ], 
+  'time_used': 592, 
+  'thresholds': {'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}, 
+  'confidence': 39.556, 
+  'image_id2': '0bvXX/VZXztbNWIb0cjRJQ==', 
+  'image_id1': 'Jl0v+no7W7tGvpHppbenjA==', 
+  'request_id': '1548568740,3721f523-c216-4ef0-aeb4-d80abe70cb1b'
+}

@@ -1,0 +1,11 @@
+{'boxes': [
+  {'confidence': 0.8941687941551208, 'coordinates': {'x0': 510, 'x1': 659, 'y0': 208, 'y1': 361}, 'label': 'cow'}, 
+  {'confidence': 0.7945014834403992, 'coordinates': {'x0': 333, 'x1': 469, 'y0': 234, 'y1': 337}, 'label': 'horse'},
+  {'confidence': 0.7163382172584534, 'coordinates': {'x0': 40, 'x1': 136, 'y0': 148, 'y1': 262}, 'label': 'horse'}, 
+  {'confidence': 0.6622892618179321, 'coordinates': {'x0': 337, 'x1': 471, 'y0': 231, 'y1': 337}, 'label': 'cow'}, 
+  {'confidence': 0.6565472483634949, 'coordinates': {'x0': 282, 'x1': 322, 'y0': 192, 'y1': 255}, 'label': 'cow'}, 
+  {'confidence': 0.6324484944343567, 'coordinates': {'x0': 348, 'x1': 475, 'y0': 183, 'y1': 251}, 'label': 'cow'}, 
+  {'confidence': 0.5493382215499878, 'coordinates': {'x0': 120, 'x1': 252, 'y0': 221, 'y1': 280}, 'label': 'sheep'}
+  ], 
+  'image': 'data://.algo/deeplearning/ObjectDetectionCOCO/temp/output.png'
+}

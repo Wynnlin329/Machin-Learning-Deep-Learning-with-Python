@@ -1,0 +1,8 @@
+{'predictions': [
+  {'class': 'natural_history_museum', 'prob': 0.9604424238204956}, 
+  {'class': 'science_museum', 'prob': 0.033884160220623016}, 
+  {'class': 'museum/indoor', 'prob': 0.004528067074716091}, 
+  {'class': 'watering_hole', 'prob': 0.0007642593700438738}, 
+  {'class': 'art_gallery', 'prob': 6.587164534721524e-05}
+  ]
+}
